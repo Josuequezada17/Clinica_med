@@ -11,4 +11,5 @@ export default defineConfig({
             refresh: true,
         }),
     ],
+    base:'https://Josuequezada17.github.io/Clinica_med/',
 });
